@@ -1,0 +1,138 @@
+@media (max-width:768px) {
+    .slick-slider {
+        width:auto;
+    }
+    .testimonialsBox {
+        padding:25px;
+    }
+    .ourTeam p.teamText {
+        padding:0 40px;
+    }
+    .service-title {
+        padding:0 40px;
+    }
+    .innerBanner {
+        background-position: 130px 288px;
+    }
+}
+@media (max-width: 767px) {
+    .member-photo img {
+        width:100%;
+        height: auto;
+    }
+   
+    #carouselExampleIndicators1 img {
+        width: 100%;
+    }
+    .dedicated-member {
+        margin-bottom: 12px;
+    }
+    ul.navbar-nav {
+        width: 100%;
+        margin-right: 20px;
+        transition: all .6s ease-in-out;
+        width: 100%;
+        background: #fff;
+        box-shadow: 0px 0px 15px 0px #00000040;
+    }
+    ul.navbar-nav > li {
+        padding:0 10px
+    }
+    ul.navbar-nav > li > a {
+        padding: 10px 10px 10px 10px;
+        font-weight: 600;
+        color:#333!important;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .dropdown-menu {
+        border:0;
+        color: #848484;
+        padding:3px 10px;
+        font-size: 13px;
+        border-radius: 0;
+        border-bottom: 1px solid #f0f0f0;
+        box-shadow: none;
+    }
+
+    .dropdown-item {
+        border:none;
+        font-size:14px;
+        padding:.30rem 1.5rem;
+    }
+    .bbsm-none {
+        border-bottom: 0!important;
+    }
+
+    .carrerFormImg {
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    .careerform {
+        border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    }
+    .joinUs {
+        padding:70px 0;
+    }
+}
+
+@media(max-width:576px) {
+    .banner {
+        min-height: 500px;
+    }
+    .innerBanner {
+        background:none;
+    }
+    .readMoreBtn {
+        margin-bottom: 25px;
+    }
+    .bannerContent {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+        transform: translate(-40%, -35%);
+        width: 90%;
+    }
+    .bannerContent h1 {
+        font-size:21px;
+    }
+    .rightQuote {
+        right:0;
+
+    }
+    .ourTeam p.teamText {
+        padding:0 12px;
+    }
+    .service-title {
+        padding:0 12px;
+    }
+    .testimonialsBox {
+        padding:0px;
+    }
+    .smb10 {
+        margin-bottom: 10px;
+    }
+    .leftQuote {
+        left:0;
+    }
+    ul.social-list {
+        display:none;
+    }
+    .px-50 {
+        padding:0;
+
+    }
+    .px-60 {
+        padding:0;
+    }
+    .pl-50 {
+        padding:0;
+    }
+}
+
+@media(max-width:375px) {
+    .read-more {
+        margin-bottom: 50px;
+    }
+}
